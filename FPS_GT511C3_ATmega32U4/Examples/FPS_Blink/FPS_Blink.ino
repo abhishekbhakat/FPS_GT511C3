@@ -11,7 +11,7 @@
 // Hardware setup - FPS connected to:
 //	  digital pin 0(arduino rx, fps tx)
 //	  digital pin 1(arduino tx - 560ohm resistor fps tx - 1000ohm resistor - ground)
-//		this brings the 5v tx line down to about 3.2v so we dont fry our fps
+//	  this brings the 5v tx line down to about 3.2v so we dont fry our fps
 
 FPS_GT511C3 fps;
 
